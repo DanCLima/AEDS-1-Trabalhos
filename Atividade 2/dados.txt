@@ -1,0 +1,1 @@
+w 10 r w 10 d w 5 r w 5 r w 5 r w 5 u p e
